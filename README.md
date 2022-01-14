@@ -1,4 +1,4 @@
-# food-delivery-app
+# grocery-pad-app
 
 > A Vue.js project
 
